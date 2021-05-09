@@ -1,6 +1,6 @@
-<h2 align="center">Heya, I'm wufsky</h2>
-<h3 align="center">Passionated about technology and everything that revolves around it</h3>
-<h4 align="center">Every day is a new opportunity to progress on your projects.</h4>
+<h2 align="center">Heya, I'm wufsky :wave:</h2>
+<h3 align="center">Passionated about technology and everything that revolves around it 🖥️</h3>
+<h4 align="center">Every day is a new opportunity to progress on your projects. 🌃</h4>
 
 <hr />
 
@@ -8,17 +8,17 @@
     <tr>
         <td><em>:computer: I currently am learning...</em></td>
         <td>
-            <a title="Java" href="https://github.com/TheBusyBiscuit?tab=repositories&language=java">
+            <a title="Java" href="https://github.com/wufsky?tab=repositories&language=java">
                 <img alt="Java" height="24px" src="https://raw.githubusercontent.com/wufsky/about-me/master/icons/java.svg" />
             </a>
         </td>
         <td>
-            <a title="JavaScript" href="https://github.com/TheBusyBiscuit?tab=repositories&language=javascript">
+            <a title="JavaScript" href="https://github.com/wufsky?tab=repositories&language=javascript">
                 <img alt="Java Script" height="24px" src="https://raw.githubusercontent.com/wufsky/about-me/master/icons/javascript.svg" />
             </a>
         </td>
         <td>
-            <a title="Lua" href="https://github.com/TheBusyBiscuit?tab=repositories&language=lua">
+            <a title="Lua" href="https://github.com/wufsky?tab=repositories&language=lua">
                 <img alt="Lua" height="24px" src="https://raw.githubusercontent.com/wufsky/about-me/master/icons/lua.svg" />
             </a>
         </td>

@@ -37,7 +37,7 @@
         </td>
         <td>
             <a title="Minecraft Servers" href="https://www.minecraft.net/en-us/">
-                <img alt="Minecraft Servers" height="24px" src="https://raw.githubusercontent.com/wufsky/about-me/master/icons/githubactions.svg" />
+                <img alt="Minecraft Servers" height="24px" src="https://raw.githubusercontent.com/wufsky/about-me/master/icons/minecraft.svg" />
             </a>
         </td>
     </tr>

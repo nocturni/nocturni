@@ -6,7 +6,7 @@
 
 <table>
     <tr>
-        <td><em>:computer: I currently am learning...</em></td>
+        <td><em>:computer: I can write code in...</em></td>
         <td>
             <a title="Java" href="https://github.com/wufsky?tab=repositories&language=java">
                 <img alt="Java" height="24px" src="https://raw.githubusercontent.com/wufsky/wufsky/master/icons/java.svg" />
@@ -24,7 +24,7 @@
         </td>
     </tr>
     <tr>
-        <td><em>:joystick: I'm experienced with...</em></td>
+        <td><em>:joystick: I know how to use...</em></td>
         <td>
             <a title="MySQL" href="https://www.mysql.com/">
                 <img alt="MySQL" height="24px" src="https://raw.githubusercontent.com/wufsky/wufsky/master/icons/mysql.svg" />

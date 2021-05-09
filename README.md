@@ -31,6 +31,11 @@
             </a>
         </td>
         <td>
+            <a title="phpMyAdmin" href="https://www.phpmyadmin.net/">
+                <img alt="phpMyAdmin" height="24px" src="https://raw.githubusercontent.com/wufsky/wufsky/master/icons/php.svg" />
+            </a>
+        </td>
+        <td>
             <a title="Discord" href="https://discord.com/">
                 <img alt="Discord" height="24px" src="https://raw.githubusercontent.com/wufsky/wufsky/master/icons/discord.svg" />
             </a>

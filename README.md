@@ -47,7 +47,7 @@
         </td>
                 <td>
             <a title="SRCDS" href="https://developer.valvesoftware.com/wiki/Source_Dedicated_Server">
-                <img alt="SRCDS" height="24px" src="https://raw.githubusercontent.com/wufsky/wufsky/master/icons/srcds.svg" />
+                <img alt="SRCDS" height="24px" src="https://raw.githubusercontent.com/wufsky/wufsky/master/icons/srcdss.svg" />
             </a>
         </td>
     </tr>

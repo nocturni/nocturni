@@ -1,6 +1,6 @@
 <h2 align="center">Heya, I'm wufsky :wave:</h2>
 <h3 align="center">Passionated about technology and everything that revolves around it 🖥️</h3>
-<h4 align="center">Every day is a new opportunity to progress on your projects. 🌃</h4>
+<h4 align="center">Every day is a new opportunity to progress on your projects 🌃</h4>
 
 <hr />
 

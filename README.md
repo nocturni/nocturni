@@ -44,12 +44,6 @@
             <a title="Minecraft Servers" href="https://www.minecraft.net/en-us/">
                 <img alt="Minecraft Servers" height="24px" src="https://raw.githubusercontent.com/wufsky/wufsky/master/icons/minecraft.svg" />
             </a>
-        </td>
-                <td>
-            <a title="SRCDS" href="https://developer.valvesoftware.com/wiki/Source_Dedicated_Server">
-                <img alt="SRCDS" height="24px" src="https://raw.githubusercontent.com/wufsky/wufsky/master/icons/srcds.svg" />
-            </a>
-        </td>
     </tr>
     <tr>
         <td><em>:wrench: Things I use a lot...</em></td>

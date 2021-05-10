@@ -24,7 +24,7 @@
         </td>
     </tr>
     <tr>
-        <td><em>:joystick: I know how to use...</em></td>
+        <td><em>:joystick: I know how to do stuff with...</em></td>
         <td>
             <a title="MySQL" href="https://www.mysql.com/">
                 <img alt="MySQL" height="24px" src="https://raw.githubusercontent.com/wufsky/wufsky/master/icons/mysql.svg" />

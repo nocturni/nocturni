@@ -1,6 +1,6 @@
 <h2 align="center">Heya, I'm wufsky :wave:</h2>
 <h3 align="center">Passionated about technology and everything that revolves around it 🖥️</h3>
-<h4 align="center">Every day is a new opportunity to progress on your projects 🌃</h4>
+<h4 align="center">Every day is a new opportunity to progress on your projects. 🌃</h4>
 
 <hr />
 
@@ -24,7 +24,7 @@
         </td>
     </tr>
     <tr>
-        <td><em>:joystick: I know how to do stuff with...</em></td>
+        <td><em>:joystick: I know how to use...</em></td>
         <td>
             <a title="MySQL" href="https://www.mysql.com/">
                 <img alt="MySQL" height="24px" src="https://raw.githubusercontent.com/wufsky/wufsky/master/icons/mysql.svg" />
@@ -45,9 +45,9 @@
                 <img alt="Minecraft Servers" height="24px" src="https://raw.githubusercontent.com/wufsky/wufsky/master/icons/minecraft.svg" />
             </a>
         </td>
-        <td>
-            <a title="Source Dedicated Servers" href="https://developer.valvesoftware.com/wiki/Source_Dedicated_Server">
-                <img alt="Source Dedicated Servers" height="24px" src="https://raw.githubusercontent.com/wufsky/wufsky/master/icons/srcds.svg" />
+                <td>
+            <a title="Minecraft Servers" href="https://www.minecraft.net/en-us/">
+                <img alt="Minecraft Servers" height="24px" src="https://raw.githubusercontent.com/wufsky/wufsky/master/icons/minecraft.svg" />
             </a>
         </td>
     </tr>
@@ -71,6 +71,11 @@
         <td>
             <a title="Visual Studio" href="https://visualstudio.microsoft.com/">
                 <img alt="Visual Studio" height="24px" src="https://raw.githubusercontent.com/wufsky/wufsky/master/icons/visualstudio.svg" />
+            </a>
+        </td>
+        <td>
+            <a title="ShareX" href="https://getsharex.com/">
+                <img alt="ShareX" height="24px" src="https://raw.githubusercontent.com/wufsky/wufsky/master/icons/sharex.svg" />
             </a>
         </td>
     </tr>

@@ -1,5 +1,6 @@
-<h2 align="center">Heya, I'm nocturni :wave:</h2>
+<h2 align="center">Hiya, I'm nocturni :wave:</h2>
 <h3 align="center">Passionated about technology and everything that revolves around it 🖥️</h3>
+<h4 align="center">🇫🇷/🇬🇧 I can speak French and English too!</h4>
 
 <hr />
 

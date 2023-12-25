@@ -1,12 +1,12 @@
-<h2 align="center">Hiya, I'm nocturni! :wave:</h2>
-<h3 align="center">Passionated about technology and everything that revolves around it 🖥️</h3>
-<h4 align="center">I can speak French and English too! 🇫🇷 / 🇬🇧</h4>
+<h2 align="center">hiya, I'm nocturni! :wave:</h2>
+<h3 align="center">i can speak English and French! 🇫🇷 / 🇬🇧</h4>
+<h4 align="center">try to focus on the small things that make you happy! 🌆</h2>
 
 <hr />
 
 <table>
     <tr>
-        <td><em>:computer: I can write code in...</em></td>
+        <td><em>:computer: I can write in...</em></td>
         <td>
             <a title="Java" href="https://github.com/nocturni?tab=repositories&language=java">
                 <img alt="Java" height="24px" src="https://raw.githubusercontent.com/nocturni/nocturni/master/icons/java.svg" />
